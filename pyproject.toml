@@ -6,7 +6,6 @@ build-backend = "hatchling.build"
 name = "run-web-binary"
 version = "0.1.0"
 description = "Run binary executables from GitHub releases - perfect for non-Python/JS MCP servers"
-readme = "README.md"
 license = "MIT"
 requires-python = ">=3.8"
 authors = [
